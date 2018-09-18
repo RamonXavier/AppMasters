@@ -1,0 +1,6 @@
+Parar cirar este projeto foram usado apenas os comandos já disponibilizados pelo próprio laravel em sua documentação.
+PHP artisan make:auth para construir as páginas de autenticação de usuário. 
+Editor de texto Sublime Text.
+Usado servidor local Apache e banco de dados Mysql (rodando via xampp).
+Para estilo da página, usado Bootstrap Global (<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">)
+Framework Laravel 5.7
